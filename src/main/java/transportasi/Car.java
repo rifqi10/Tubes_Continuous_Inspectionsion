@@ -10,7 +10,7 @@ package transportasi;
  */
 public class Car extends Kendaraan {
     private int xLoc = 10; 
-    private int yLoc;
+    private int yLoc; 
     private String plateNum;
     private double speed;
 
